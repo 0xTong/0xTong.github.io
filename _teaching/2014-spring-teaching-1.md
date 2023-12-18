@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Tutoring experience 1"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "PhD course"
+permalink: /teaching/2021-fall-tutoring-1
+venue: "School of Foreign Languages, Beijing Institute of Technology"
+date: 2021-09-01 - Present
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+- Identiﬁed critically logical fallacies in writing assignments & gave feedback to over 900 PhD candidates.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Optimized how critical thinking and Socratic questioning should enthuse the course.
