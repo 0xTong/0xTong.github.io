@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.A. in English, Beijing Institute of Technology, 2024
+* UC San Diego, extended courses in Linear Algebra, Calculus I (A), Introduction to Programming(A+), and Introduction to Statistics (2023 Summer and Fall)
 
 
 Work experience
@@ -24,12 +25,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Independent Academic Research Competence
+* Programming
+  * Python (pandas, numpy, matplotlib, nltk)
+  * R
+  * Git
+* Public Speaking
 
 Publications
 ======
