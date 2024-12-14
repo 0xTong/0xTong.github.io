@@ -52,7 +52,7 @@ author_profile: true
   - **Project**: Ion diffusion mechanism in perovskite solar cells
   - **Description**: Under Prof. Jacek Jasieniak, I used a novel technique to collect a large amount of raw data on the diffusion process of chalcogenide. After that, MATLAB was used to simulate the diffusion process during the formation of a chalcogenide solar cell.
 
-- **2017-2018**: [State Key Laboratory of Powder Metallurgy](http://www.sklpm.csu.edu.cn/)
+- **2017-2018**: [State Key Laboratory of Powder Metallurgy](https://sklpm.csu.edu.cn/)
   - **Project**: Study of corrosion phenomena in high-entropy alloy FeCrCoMnNi
   - **Role**: First Leader
   - **Description**: As the first leader of the whole project, I explored the corrosion phenomena of the new generation of high entropy alloys under the guidance of Prof. Lei Qian, which paved the way for the future basic research of the new generation of high entropy alloys.
