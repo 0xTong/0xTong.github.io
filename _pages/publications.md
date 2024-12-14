@@ -4,10 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-
-
-
 - **Y. Ye, J. Ren, S. Wang, Y. Wan, I. Razzak, T. Xie, and W. Zhang,** "Construction of Functional Materials Knowledge Graph in Multidisciplinary Materials Science via Large Language Model," [arXiv preprint arXiv:2404.03080](https://arxiv.org/abs/2404.03080), 2024.
 - **Y. Wan, A. Ajith, Y. Liu, K. Lu, C. Grazian, B. Hoex, W. Zhang, C. Kit, T. Xie, and I. Foster,** "SciQAG: A Framework for Auto-Generated Scientific Question Answering Dataset with Fine-grained Evaluation," *Nature Communication*, [manuscripts under review](https://arxiv.org/abs/2405.09939), 2024.
 - **T. Xie, Y. Wan, W. Huang, Y. Zhou, Y. Liu, Q. Linghu, S. Wang, C. Kit, C. Grazian, B. Hoex, and I. Razzak,** "Large Language Models as Master Key: Unlocking the Secrets of Materials Science with GPT," [arXiv preprint arXiv:2304.02213](https://arxiv.org/abs/2304.02213), 2023.
