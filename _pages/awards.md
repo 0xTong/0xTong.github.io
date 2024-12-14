@@ -8,12 +8,16 @@ author_profile: true
 
 ## Personal Award
 
-- **2023**: NCI TOP10 HPC-AI Talent
+- **2023**: [NCI TOP10 HPC-AI Talent](https://nci.org.au/research/research-highlights/ncis-hpc-ai-talent-program-recipient-makes-breakthrough-materials)
   - **Institution**: National Computational Infrastructure, Australia
-- **2018**: 14th Fu Rong excellent student in Economics & Management
-  - **Institution**: Centre South University (only 2 winners each year)
-- **2017**: Technological Innovation Elite Youth
+- **2018**: [14th Fu Rong excellent student in Economics & Management](https://www.csu.edu.cn/)
+  - **Institution**: Central South University (only 2 winners each year)
+- **2017**: [Technological Innovation Elite Youth](https://www.sohu.com/a/347244127_407274)
   - **Institution**: Department of Science and Technology, Hunan, China
+
+
+
+
 
 ## **As Leader**
 
@@ -36,8 +40,7 @@ author_profile: true
 
   - **Award**: Finalist in the China Division
 - **2017**: National Extracurricular Academic Competition – Challenge Cup
-
-  - **Award**: Silver Prize
+- **Award**: Silver Prize
 - **2017**: 14th Technical Innovation Competitions
 
   - **Award**: Third Prize, Changsha, Hunan Province
