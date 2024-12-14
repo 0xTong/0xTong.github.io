@@ -18,38 +18,33 @@ Education
 
 # **Work Experience**
 
-- **2023 – Present** GreenDynamics 
+- **2023 – Present** GreenDynamics
 
   Co-Founder
 
   - Founded the first AI4Material startup in Australia.
   - Estimated company valuation: **$13M USD**.
-  
 - **2023 – Present US Department of Energy (DoE) TPC Program**
 
   UNSW  Point-of-Contact
 
   - Founding partner of the **Trillion Parameter Consortium**.
   - Focused on creating large-scale generative AI models to tackle key challenges in advancing AI for science.
-  
 - **2021 – 2023** University of New South Wales
 
   Online Course Instructor
 
   - Designed and managed the online course **SOLA 2540: Applied Photovoltaics**.
-  
 - **2021 – 2023** US – Australia Institute of Advanced Photovoltaics
 
   Research Assistant
 
   - Managed the renowned photovoltaics website **PV-manufacture.org**.
-  
 - **2022 – 2023** UNSW Post Graduate Student Council (PGC)
 
   Research Committee Officer
 
   - Oversaw research committee activities, including organizing research events and managing graduate student reports.
-
 
 # **Certificate**
 
