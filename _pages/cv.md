@@ -11,8 +11,6 @@ redirect_from:
 Education
 =========
 
-
-
 - **2020.6 - 2024.5 University of New South Wales, PhD**, Leveraging Large Language Models for Nano-Material Discovery and Synthesis
 - **2017.1 - 2017.2 National University of Singapore, Winter School**, Innovation Management
 - **2015.9 - 2019.12 Monash University, Bachelor of Engineering (Honors)**, High Distinction, Material Science and Engineering
@@ -64,45 +62,18 @@ Education
 - **2017** **Hunan Provincial Science and Technology Department**
 - **Technical & Entrepreneurial Talents**
 
-Publications
-============
-
-<ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Awards
 ======
 
-- **2023** NCI TOP10 HPC-AI Talent  
-  National Computational Infrastructure, Australia
-
-- **2018** 14th Fu Rong Excellent Student in Economics & Management  
-  Top student award in CSU (only 2 winners each year)
-
-- **2017** Technological Innovation Elite Youth  
-  Department of Science and Technology, Hunan, China (As leader)
-
-- **2018** National Business Plan Competition - Challenge Cup  
-  Gold Prize
-
-- **2018** China College Students Internet Plus Innovation and Entrepreneurship Competition  
-  Silver Prize
-
-- **2017** COMAP Interdisciplinary Contest in Mathematical Modeling  
-  International Honorable Mention
-
-- **2017** Asia and Pacific Mathematical Contest in Modelling  
-  International Third Prize
-
-- **2017** Innovation Management Program (National University of Singapore)  
-  Best Group
-
-- **2017** Sino-Australia Innovation & Entrepreneurship Competition  
-  Finalist in the China Division
-
-- **2017** National Extracurricular Academic Competition – Challenge Cup  
-  Silver Prize
-
-- **2017** 14th Technical Innovation Competitions  
+- **2023** NCI TOP10 HPC-AI TalentNational Computational Infrastructure, Australia
+- **2018** 14th Fu Rong Excellent Student in Economics & ManagementTop student award in CSU (only 2 winners each year)
+- **2017** Technological Innovation Elite YouthDepartment of Science and Technology, Hunan, China (As leader)
+- **2018** National Business Plan Competition - Challenge CupGold Prize
+- **2018** China College Students Internet Plus Innovation and Entrepreneurship CompetitionSilver Prize
+- **2017** COMAP Interdisciplinary Contest in Mathematical ModelingInternational Honorable Mention
+- **2017** Asia and Pacific Mathematical Contest in ModellingInternational Third Prize
+- **2017** Innovation Management Program (National University of Singapore)Best Group
+- **2017** Sino-Australia Innovation & Entrepreneurship CompetitionFinalist in the China Division
+- **2017** National Extracurricular Academic Competition – Challenge CupSilver Prize
+- **2017** 14th Technical Innovation Competitions
   Third Prize, Changsha, Hunan Province
