@@ -11,6 +11,8 @@ redirect_from:
 Education
 =========
 
+
+
 - **2020.6 - 2024.5 University of New South Wales, PhD**, Leveraging Large Language Models for Nano-Material Discovery and Synthesis
 - **2017.1 - 2017.2 National University of Singapore, Winter School**, Innovation Management
 - **2015.9 - 2019.12 Monash University, Bachelor of Engineering (Honors)**, High Distinction, Material Science and Engineering
@@ -69,21 +71,38 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
-=====
+Awards
+======
 
-<ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+- **2023** NCI TOP10 HPC-AI Talent  
+  National Computational Infrastructure, Australia
 
-Teaching
-========
+- **2018** 14th Fu Rong Excellent Student in Economics & Management  
+  Top student award in CSU (only 2 winners each year)
 
-<ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+- **2017** Technological Innovation Elite Youth  
+  Department of Science and Technology, Hunan, China (As leader)
 
-Service and leadership
-======================
+- **2018** National Business Plan Competition - Challenge Cup  
+  Gold Prize
 
-* Currently signed in to 43 different slack teams
+- **2018** China College Students Internet Plus Innovation and Entrepreneurship Competition  
+  Silver Prize
+
+- **2017** COMAP Interdisciplinary Contest in Mathematical Modeling  
+  International Honorable Mention
+
+- **2017** Asia and Pacific Mathematical Contest in Modelling  
+  International Third Prize
+
+- **2017** Innovation Management Program (National University of Singapore)  
+  Best Group
+
+- **2017** Sino-Australia Innovation & Entrepreneurship Competition  
+  Finalist in the China Division
+
+- **2017** National Extracurricular Academic Competition – Challenge Cup  
+  Silver Prize
+
+- **2017** 14th Technical Innovation Competitions  
+  Third Prize, Changsha, Hunan Province
