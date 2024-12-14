@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-## Personal Award
+## Personal Awards
 
 - **2023**: [NCI TOP10 HPC-AI Talent](https://nci.org.au/research/research-highlights/ncis-hpc-ai-talent-program-recipient-makes-breakthrough-materials)
   - **Institution**: National Computational Infrastructure, Australia
@@ -19,7 +19,7 @@ author_profile: true
 
 
 
-## **As Leader**
+## **Awards As Leader**
 
 - **2018**: National Business Plan Competition - Challenge Cup
 
