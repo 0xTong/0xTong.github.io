@@ -10,10 +10,9 @@ redirect_from:
 
 
 
+### Educational Experience
 
 
-Educational Experience
-====================
 
 - **2020.6 - 2024.5 University of New South Wales, PhD**, Leveraging Large Language Models for Nano-Material Discovery and Synthesis
 - **2017.1 - 2017.2 National University of Singapore, Winter School**, Innovation Management
@@ -28,7 +27,7 @@ Educational Experience
 
 
 
-# **Professional Experience**
+### **Professional Experience**
 
 - **2023 – Present** GreenDynamics
 
@@ -64,7 +63,7 @@ Educational Experience
 
 
 
-# **Certificates**
+### **Certificates**
 
 - **2024** **Argonne National Lab**
   - **Argonne Training Program on Extreme-Scale Computing**
