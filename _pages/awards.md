@@ -8,8 +8,7 @@ author_profile: true
 
 
 
-Awards
-======
+
 
 - **2023** NCI TOP10 HPC-AI TalentNational Computational Infrastructure, Australia
 - **2018** 14th Fu Rong Excellent Student in Economics & ManagementTop student award in CSU (only 2 winners each year)
