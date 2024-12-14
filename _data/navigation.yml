@@ -3,8 +3,13 @@ main:
   - title: "Publications"
     url: /publications/
     
+  - title: "Research"
+    url: /research/
+
   - title: "Experiences"
     url: /exp/
     
   - title: "Awards"
     url: /awards/
+
+  
