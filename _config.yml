@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yingjie (Jankin) Xiao"
+title                    : "Tong Xie"
 title_separator          : "-"
-name                     : &name "Yingjie Xiao"
+name                     : &name "Tong Xie"
 description              : &description "personal description"
 url                      : https://jankinshaw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yingjie Xiao"
+  name             : "Tong Xie"
   avatar           : "profile.png"
-  bio              : "A Computational Linguistic and a Cognitive Linguist"
-  location         : "Beijing, China"
+  bio              : "Founder & Researcher | Transfer Materials to Digital Discovery"
+  location         : "Sydney, Australia"
   employer         : "GreenDynamics"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Xie+T&cauthor_id=38296978"
+  googlescholar    : "https://scholar.google.com.au/citations?user=IWEN6kcAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JankinShaw"
+  github           : "0xTong"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0009-0005-3321-8609"
+  orcid            : "https://orcid.org/0000-0002-1659-4865"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
