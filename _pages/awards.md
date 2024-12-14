@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "CV"
+title: "Awards"
 permalink: /awards/
 author_profile: true
-
 ---
-
 {% include base_path %}
 
 Awards
