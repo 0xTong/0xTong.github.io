@@ -19,6 +19,10 @@ redirect_from:
 - **2015.9 - 2019.12 [Monash University, Bachelor of Engineering (Honors)](https://www.monash.edu/)**, High Distinction, Material Science and Engineering
 - **2015.9 - 2020.06 [Central South University](https://www.csu.edu.cn/)**, Bachelor of Engineering, Material Science and Engineering
 
+
+
+
+
 ### **Professional Experience**
 
 - **2023 – Present** [GreenDynamics](https://www.greendynamics.com.au)
@@ -52,6 +56,10 @@ redirect_from:
   Research Committee Officer
 
   - Oversaw research committee activities, including organizing research events and managing graduate student reports.
+
+
+
+
 
 ### **Certificates**
 
