@@ -8,13 +8,25 @@ redirect_from:
 ---
 {% include base_path %}
 
-Education Experience
+
+
+
+
+Educational Experience
 ====================
 
 - **2020.6 - 2024.5 University of New South Wales, PhD**, Leveraging Large Language Models for Nano-Material Discovery and Synthesis
 - **2017.1 - 2017.2 National University of Singapore, Winter School**, Innovation Management
 - **2015.9 - 2019.12 Monash University, Bachelor of Engineering (Honors)**, High Distinction, Material Science and Engineering
 - **2015.9 - 2020.06 Centre South University, Bachelor of Engineering**, Material Science and Engineering
+
+
+
+
+
+
+
+
 
 # **Professional Experience**
 
@@ -45,6 +57,12 @@ Education Experience
   Research Committee Officer
 
   - Oversaw research committee activities, including organizing research events and managing graduate student reports.
+
+
+
+
+
+
 
 # **Certificates**
 
