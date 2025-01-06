@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About Me
+## About Me
 
 Hi there! 👋 I'm Tong Xie, a 2024 graduate of the UNSW School of Photovoltaic and Renewable Energy Engineering, where I was advised by Bram Hoex and Clara Grazian. founder of GreenDynamics, and passionate about leveraging AI to revolutionize materials science and renewable energy. Before joining UNSW, I received my Bachelor's degree from the School of Material Science and Engineering at both Monash University (where I completed my final year project with Jacek Jasieniak) and Central South University.
 
