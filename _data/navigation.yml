@@ -3,11 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Research"
-    url: /research/
+  - title: "Talks"
+    url: /talks/  
 
-  - title: "Experiences"
-    url: /exp/
-    
-  - title: "Awards"
-    url: /awards/
+  - title: "Blog Posts"
+    url: /year-archive/
