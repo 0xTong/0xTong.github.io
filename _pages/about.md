@@ -17,14 +17,21 @@ AI for Science, LLMs, Self-Driving Labs, Nano Thinfilms and Nano Particles
 **My Service and Leadership:**
 
 Conference Reviewer: NeurIPS, ICLR, ACL, and EMNLP ; Multiple Journal Reviewer(like Nature Communications)
+
 UNSW Postgraduate Council - Research Committee Officer(2022-2023),Project Committee Officer(2023-2024)
+
 Australian Academy of Technological Sciences and Engineering - IMNIS Alumni
 
 **My Grant:**
+
 NCMAS: Accelerating Advanced Catalyst Discovery through Large Language Models and Neural Network Interatomic Potential
+
 PAWSEY PARTNER SCHEME: Material Science focused Large Language Model for accelerated discovery
-ACAP Collaborative Project Funds: Bayesian Optimization and Large Language Models: Towards Autonomous, Closed-Loop PV Materials Discovery 
+
+ACAP Collaborative Project Funds: Bayesian Optimization and Large Language Models: Towards Autonomous, Closed-Loop PV Materials Discovery
+
 Microsoft Research AFMR: Unsupervised word embedding for material discovery from the natural scientific literature 
+
 UNSW DGFI Seed Funding: AI-Powered Datasets Collection and Analysis Platform in Smart Cities and Smart Grids
 
 **My Leadership:**
