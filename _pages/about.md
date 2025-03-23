@@ -35,10 +35,15 @@ Microsoft Research AFMR: Unsupervised word embedding for material discovery from
 UNSW DGFI Seed Funding: AI-Powered Datasets Collection and Analysis Platform in Smart Cities and Smart Grids
 
 **My Leadership:**
+
 2025 Google Australia Travel Scholarship
+
 2024 Argonne National Lab ATPESC Receiptant
+
 2023 UNSW Founder Climate 10x
+
 2023 NCI Australia TOP 10 HPC-AI Talent
+
 2022 Blackbird Venture Wild Future Program
 
 **Fun Facts:**
