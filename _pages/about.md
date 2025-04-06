@@ -7,18 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! 👋 I'm Tong Xie, the CEO and co-founder of [GreenDynamics](www.greendynamics.com.au), and Group Lead of [UNSW AI4Science](https://www.notion.so/greendynamics/All-about-MasterAI-UNSW-AI4Science-3b6ae2e03f104e569289322e5725938c). I received my PhD in Photovoltaics Materials and Computer Science from UNSW Sydney 🇦🇺 in 2025, where I was advised by [Bram Hoex](https://www.unsw.edu.au/staff/bram-hoex), [Clara Grazian](https://www.sydney.edu.au/science/about/our-people/academic-staff/clara-grazian.html). Before joining UNSW, I received my Bachelor's degree from the School of Material Science and Engineering at both Monash University (where I completed my final year project with [Jacek Jasieniak](https://www.monash.edu/engineering/jacekjasieniak)) and Central South University.
+Hi there! 👋 I'm Tong Xie, the CEO and co-founder of [GreenDynamics](www.greendynamics.com.au), and Group Lead of [UNSW AI4Science](https://www.notion.so/greendynamics/All-about-MasterAI-UNSW-AI4Science-3b6ae2e03f104e569289322e5725938c). I received my PhD in Photovoltaics Materials and Computer Science from UNSW Sydney 🇦🇺 in 2025, where I was advised by [Bram Hoex](https://www.unsw.edu.au/staff/bram-hoex), [Clara Grazian](https://www.sydney.edu.au/science/about/our-people/academic-staff/clara-grazian.html) and [Sean Li](https://www.unsw.edu.au/staff/sean-li). Before joining UNSW, I received my Bachelor's degree from the School of Material Science and Engineering at both Monash University (where I completed my final year project with [Jacek Jasieniak](https://www.monash.edu/engineering/jacekjasieniak)) and Central South University(China).
 
 
 **My Current Interests:**
 
 AI for Science, LLMs, Self-Driving Labs, Nano Thinfilms and Nano Particles 
 
-**My Service and Leadership:**
+**My Current Service and Leadership:**
 
 Conference Reviewer: NeurIPS, ICLR, ACL, and EMNLP ; Multiple Journal Reviewer(like Nature Communications)
-
-UNSW Postgraduate Council - Research Committee Officer(2022-2023),Project Committee Officer(2023-2024)
 
 Australian Academy of Technological Sciences and Engineering - IMNIS Alumni
 
@@ -40,7 +38,7 @@ UNSW DGFI Seed Funding: AI-Powered Datasets Collection and Analysis Platform in 
 
 2024 Argonne National Lab ATPESC Receiptant
 
-2023 UNSW Founder Climate 10x
+2023 UNSW Founder Climate 10x Top 6
 
 2023 NCI Australia TOP 10 HPC-AI Talent
 
