@@ -20,7 +20,7 @@ Conference Reviewer: NeurIPS, ICLR, ACL, and EMNLP ; Multiple Journal Reviewer(l
 
 Australian Academy of Technological Sciences and Engineering - IMNIS Alumni
 
-**My Grant:**
+**<span style="color: green; font-weight: bold;">My Grant:</span>**
 
 NCMAS: Accelerating Advanced Catalyst Discovery through Large Language Models and Neural Network Interatomic Potential
 
@@ -48,9 +48,9 @@ UNSW DGFI Seed Funding: AI-Powered Datasets Collection and Analysis Platform in 
 
 🌏 We are building an [autonomous lab](https://anff.org.au/news/using-ai-to-capture-sunlight/) for perovskite solar cells in Melbourne, equipped with advanced robotics and AI integration to optimize material synthesis and testing processes. We collaborate with researchers worldwide to push the boundaries of science and innovation.
 
-🌱 I’m an advocate for sustainable R&D practices and love scaling technology to solve global challenges.
+🌱 I'm an advocate for sustainable R&D practices and love scaling technology to solve global challenges.
 
 💡 I believe in changing the traditional R&D paradigm, making innovation simpler, faster, and more accessible.[My interview by National Computaional Infrasture Australia](https://nci.org.au/research/research-highlights/ncis-hpc-ai-talent-program-recipient-makes-breakthrough-materials)
 
-Feel free to explore my [github](https://github.com/MasterAI-EAM) or connect with me on LinkedIn to discuss AI, materials science, or anything renewable energy. Let’s innovate together! 🚀
+Feel free to explore my [github](https://github.com/MasterAI-EAM) or connect with me on LinkedIn to discuss AI, materials science, or anything renewable energy. Let's innovate together! 🚀
 
