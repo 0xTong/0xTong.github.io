@@ -10,17 +10,17 @@ redirect_from:
 Hi there! 👋 I'm Tong Xie, the CEO and co-founder of [GreenDynamics](www.greendynamics.com.au), and Group Lead of [UNSW AI4Science](https://www.notion.so/greendynamics/All-about-MasterAI-UNSW-AI4Science-3b6ae2e03f104e569289322e5725938c). I received my PhD in Photovoltaics Materials and Computer Science from UNSW Sydney 🇦🇺 in 2025, where I was advised by [Bram Hoex](https://www.unsw.edu.au/staff/bram-hoex), [Clara Grazian](https://www.sydney.edu.au/science/about/our-people/academic-staff/clara-grazian.html) and [Sean Li](https://www.unsw.edu.au/staff/sean-li). Before joining UNSW, I received my Bachelor's degree from the School of Material Science and Engineering at both Monash University (where I completed my final year project with [Jacek Jasieniak](https://www.monash.edu/engineering/jacekjasieniak)) and Central South University(China).
 
 
-**My Current Interests:**
+<span style="color: green; font-weight: bold; font-family: sans-serif;">My Current Interests:</span>
 
 AI for Science, LLMs, Self-Driving Labs, Nano Thinfilms and Nano Particles 
 
-**My Current Service and Leadership:**
+<span style="color: green; font-weight: bold; font-family: sans-serif;">My Current Service and Leadership:</span>
 
 Conference Reviewer: NeurIPS, ICLR, ACL, and EMNLP ; Multiple Journal Reviewer(like Nature Communications)
 
 Australian Academy of Technological Sciences and Engineering - IMNIS Alumni
 
-**<span style="color: green; font-weight: bold;">My Grant:</span>**
+<span style="color: green; font-weight: bold; font-family: sans-serif;">My Grant:</span>
 
 NCMAS: Accelerating Advanced Catalyst Discovery through Large Language Models and Neural Network Interatomic Potential
 
@@ -32,7 +32,7 @@ Microsoft Research AFMR: Unsupervised word embedding for material discovery from
 
 UNSW DGFI Seed Funding: AI-Powered Datasets Collection and Analysis Platform in Smart Cities and Smart Grids
 
-**My Leadership:**
+<span style="color: green; font-weight: bold; font-family: sans-serif;">My Leadership:</span>
 
 2025 Google Australia Travel Scholarship
 
@@ -44,7 +44,7 @@ UNSW DGFI Seed Funding: AI-Powered Datasets Collection and Analysis Platform in 
 
 2022 Blackbird Venture Wild Future Program
 
-**Fun Facts:**
+<span style="color: green; font-weight: bold; font-family: sans-serif;">Fun Facts:</span>
 
 🌏 We are building an [autonomous lab](https://anff.org.au/news/using-ai-to-capture-sunlight/) for perovskite solar cells in Melbourne, equipped with advanced robotics and AI integration to optimize material synthesis and testing processes. We collaborate with researchers worldwide to push the boundaries of science and innovation.
 
