@@ -18,7 +18,7 @@ AI for Science, LLMs, Self-Driving Labs, Nano Thinfilms and Nano Particles
 
 Conference Reviewer: NeurIPS, ICLR, ACL, and EMNLP ; Multiple Journal Reviewer(like Nature Communications)
 
-Australian Academy of Technological Sciences and Engineering - IMNIS Alumni
+Australian Academy of Technological Sciences and Engineering - IMNIS Member
 
 
 <span style="color: green; font-weight: bold; font-family: sans-serif;">My Leadership:</span>
