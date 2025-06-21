@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! 👋 I'm Tong Xie, the CEO and co-founder of [GreenDynamics](www.greendynamics.com.au), and Group Lead of [UNSW AI4Science](https://unswai4s.notion.site/All-about-MasterAI-UNSW-AI4Science-1f4a59fe367b8131a72ec586362d930f). I received my PhD in Photovoltaics Materials and Computer Science from UNSW Sydney 🇦🇺 in 2025, where I was advised by [Bram Hoex](https://www.unsw.edu.au/staff/bram-hoex), [Clara Grazian](https://www.sydney.edu.au/science/about/our-people/academic-staff/clara-grazian.html) and [Sean Li](https://www.unsw.edu.au/staff/sean-li). Before joining UNSW, I received my Bachelor's degree from the School of Material Science and Engineering at both Monash University (where I completed my final year project with [Jacek Jasieniak](https://www.monash.edu/engineering/jacekjasieniak)) and Central South University(China).
+Hi there! 👋 I'm Tong Xie, the CEO and co-founder of [GreenDynamics](www.greendynamics.com.au), and Group Lead of [UNSW AI4Science](https://unswai4s.notion.site/All-about-MasterAI-UNSW-AI4Science-1f4a59fe367b8131a72ec586362d930f). I received my PhD in Photovoltaics Materials and Computer Science from UNSW Sydney 🇦🇺 in 2025, where I was advised by [Bram Hoex](https://www.unsw.edu.au/staff/bram-hoex)and[Clara Grazian](https://www.sydney.edu.au/science/about/our-people/academic-staff/clara-grazian.html). Before joining UNSW, I received my Bachelor's degree from the School of Material Science and Engineering at both Monash University (where I completed my final year project with [Jacek Jasieniak](https://www.monash.edu/engineering/jacekjasieniak)) and Central South University(China).
 
 
 <span style="color: green; font-weight: bold; font-family: sans-serif;">My Current Interests:</span>
@@ -20,29 +20,18 @@ Conference Reviewer: NeurIPS, ICLR, ACL, and EMNLP ; Multiple Journal Reviewer(l
 
 Australian Academy of Technological Sciences and Engineering - IMNIS Alumni
 
-<span style="color: green; font-weight: bold; font-family: sans-serif;">My Grant:</span>
-
-NCMAS: Accelerating Advanced Catalyst Discovery through Large Language Models and Neural Network Interatomic Potential
-
-PAWSEY PARTNER SCHEME: Material Science focused Large Language Model for accelerated discovery
-
-ACAP Collaborative Project Funds: Bayesian Optimization and Large Language Models: Towards Autonomous, Closed-Loop PV Materials Discovery
-
-Microsoft Research AFMR: Unsupervised word embedding for material discovery from the natural scientific literature 
-
-UNSW DGFI Seed Funding: AI-Powered Datasets Collection and Analysis Platform in Smart Cities and Smart Grids
 
 <span style="color: green; font-weight: bold; font-family: sans-serif;">My Leadership:</span>
 
 2025 Google Australia Travel Scholarship
 
-2024 Argonne National Lab ATPESC Receiptant
+2024 Argonne National Lab - ATPESC Receiptant
 
-2023 UNSW Founder Climate 10x Top 6
+2023 UNSW Founder - Climate 10x
 
-2023 NCI Australia TOP 10 HPC-AI Talent
+2023 NCI Australia - TOP 10 HPC-AI Talent
 
-2022 Blackbird Venture Wild Future Program
+2022 Blackbird Venture - Wild Future 
 
 <span style="color: green; font-weight: bold; font-family: sans-serif;">Fun Facts:</span>
 
