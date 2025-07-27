@@ -15,11 +15,11 @@ AI for Science, Large Language Models (LLMs), Self-Driving Labs, Nano Thin Films
 
 <span style="color: green; font-weight: bold; font-family: sans-serif;">My Current Service and Leadership:</span>
 
-Reviewer for NeurIPS, ICLR, ACL, and EMNLP; journal reviewer (including Nature Communications).
+Reviewer for Nature Communications, JACS, NeurIPS, ICLR, ACL, EMNLP and so on.
 
 Member of the Australian Academy of Technological Sciences and Engineering - IMNIS Program.
 
-My research group, [UNSW AI4Science](https://unswai4s.notion.site/All-about-MasterAI-UNSW-AI4Science-1f4a59fe367b8131a72ec586362d930f), has received funding from the Australian Centre for Advanced Photovoltaics (ACAP), the Australian Renewable Energy Agency (ARENA), Microsoft Research, and others.
+My research group, [UNSW AI4Science](https://unswai4s.notion.site/All-about-MasterAI-UNSW-AI4Science-1f4a59fe367b8131a72ec586362d930f), has received funding from the Australian Centre for Advanced Photovoltaics (ACAP), the Australian Renewable Energy Agency (ARENA), Microsoft Research AFMR, and others.
 
 <span style="color: green; font-weight: bold; font-family: sans-serif;">Selected Honours:</span>
 
@@ -32,9 +32,9 @@ My research group, [UNSW AI4Science](https://unswai4s.notion.site/All-about-Mast
 
 <span style="color: green; font-weight: bold; font-family: sans-serif;">Fun Facts:</span>
 
-🌏 I lead an [autonomous lab](https://www.acap.org.au/post/solar-research-with-ai-and-machine-learning) for perovskite solar cells in Melbourne, equipped with advanced robotics and AI to optimize material synthesis and testing processes. We collaborate globally to push the boundaries of science and innovation.  
+🌱 I love meeting new people who are passionate about innovation and impact as much as I am. Whether you’re an academic, an industry partner, a fellow entrepreneur, or just someone with a cool idea, I’m always up for a conversation. I speak the language of both research and business, so I enjoy being a bridge between ideas and action.
 
-🌱 I’m passionate about sustainable R&D practices and scaling technology to solve global challenges.  
+🌏 I lead an [autonomous lab](https://www.acap.org.au/post/solar-research-with-ai-and-machine-learning) for perovskite solar cells in Melbourne, equipped with advanced robotics and AI to optimize material synthesis and testing processes. We collaborate globally to push the boundaries of science and innovation.  
 
 💡 I believe in transforming the traditional R&D paradigm, making innovation simpler, faster, and more accessible. [Read my interview with National Computational Infrastructure Australia](https://nci.org.au/research/research-highlights/ncis-hpc-ai-talent-program-recipient-makes-breakthrough-materials).
 
