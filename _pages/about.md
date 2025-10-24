@@ -15,19 +15,21 @@ AI for Science, Large Language Models (LLMs), Self-Driving Labs, Nano Thin Films
 
 <span style="color: green; font-weight: bold; font-family: sans-serif;">My Current Service and Leadership:</span>
 
-Reviewer for Nature Communications, JACS, NeurIPS, ICLR, ACL, EMNLP and so on.
+Reviewer for Nature Chemistry, Nature Comm, JACS, NeurIPS, ICLR, ACL, EMNLP and so on.
 
 Member of the Australian Academy of Technological Sciences and Engineering - IMNIS Program.
 
-My research group, [UNSW AI4Science](https://unswai4s.notion.site/All-about-MasterAI-UNSW-AI4Science-1f4a59fe367b8131a72ec586362d930f), has received funding from the Australian Centre for Advanced Photovoltaics (ACAP), the Australian Renewable Energy Agency (ARENA), Microsoft Research AFMR, and others.
+My research group, [UNSW AI4Science](https://unswai4s.notion.site/All-about-MasterAI-UNSW-AI4Science-1f4a59fe367b8131a72ec586362d930f), has received funding from the Australian Centre for Advanced Photovoltaics (ACAP), the Australian Renewable Energy Agency (ARENA), Microsoft Research, Swiss AI Center and others. Details you can see the group page.
+
 
 <span style="color: green; font-weight: bold; font-family: sans-serif;">Selected Honours:</span>
 
-- 2025 NFACR & ACAP – ELICE Innovation Champion Award  
-- 2024 US DOE Argonne National Lab – ATPESC Recipient  
-- 2023 UNSW Founder – Climate 10x Program  
-- 2023 NCI Australia – Top 10 HPC-AI Talent  
-- 2022 Blackbird Ventures – Foundry Program  
+- [2025] I won ELICE Innovation Champion Award! Thx ACAP & NFACR
+- [2025] I receive the Google Conference Scholarship!
+- [2024] US DOE Argonne National Lab – ATPESC Recipient  
+- [2023] UNSW Founder – Climate 10x Program  
+- [2023] NCI Australia – Top 10 HPC-AI Talent  
+- [2022] Blackbird Ventures – Foundry Program  
 - Monash University – Dean’s List, International Student Scholarship  
 
 <span style="color: green; font-weight: bold; font-family: sans-serif;">Fun Facts:</span>
