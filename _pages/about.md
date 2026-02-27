@@ -23,6 +23,7 @@ My research group, [UNSW AI4Science](https://unswai4s.notion.site/All-about-Mast
 
 <span style="color: green; font-weight: bold; font-family: sans-serif;">Selected Honours:</span>
 
+- [2025] My recent comment about Deepseek-math v2 got featured on [Nature](https://www.nature.com/articles/d41586-025-03959-9).
 - [2025] I won ⭐ Top Choice Award ⭐  for the Supercharge Australia Innovation Challenge! Thx Energy Lab and New Energy Nexus.
 - [2025] I won ELICE Innovation Champion Award! Thx ACAP & NFACR
 - [2025] I receive the Google Conference Scholarship!
